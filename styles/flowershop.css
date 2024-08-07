@@ -48,5 +48,8 @@
     font-style: normal;
 }
 .about{
-    padding: 178px 665px 0px 661px;
+    padding: 178px 423px 0px 423px;
+}
+.pad{
+    margin: 0px 238px;
 }
