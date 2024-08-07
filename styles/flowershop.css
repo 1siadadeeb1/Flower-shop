@@ -14,6 +14,7 @@
     color: white;
     font-size: 20px;
     padding: 20px 43px;
+    
 }
 .imgmain{
     height: 800px;
@@ -37,7 +38,7 @@
     text-align: center;
     font-size: 40px;
     font-family: "Lato", sans-serif;
-    font-weight: 800;
+    font-weight: 700;
     font-style: normal;
 }
 .description{
@@ -98,4 +99,73 @@
     background-repeat: no-repeat;
     align-items: center;
     padding: 67px 75px 0px 75px;
+}
+.middle{
+    padding: 86px 175px 60px 175px;
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: space-around;
+    margin: 128px 0px;
+}
+.hel1{
+    padding: 0px 142px;
+}
+.hel2{
+    padding: 0px 114px;
+}
+.hel3{
+    padding: 0px 57px;
+}
+.he{
+    text-align: center;
+    font-size: 24px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #505050;
+}
+.help{
+    align-items: center;
+}
+.banner2{
+    background-color: #FDF6F8;
+}
+.a{
+
+    font-size: 40px;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.b{
+
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text{
+    text-align: center;
+    padding: 130px 0px 0px 0px;
+}
+.headd{
+    padding: 100px 430px 100px 395px;
+    display: flex;
+    justify-content: space-between;
+}
+.onlypic{
+    height: 396;
+    width: 342;
+}
+.onlyimg{
+    padding: 48px 0px 0px 0px;
+}
+.background{
+    background-image: url(/images/Rectangle\ 9.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.text1{
+    text-align: center;
+    padding: 122px 287px;
 }
