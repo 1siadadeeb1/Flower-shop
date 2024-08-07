@@ -52,7 +52,7 @@
     padding: 178px 423px 0px 423px;
 }
 .pad{
-    margin: 0px 238px;
+    margin: 0px 251px;
 }
 .flowe1{
     background-image: url(/images/Rectangle\ 3\ \(1\).png);
@@ -164,8 +164,30 @@
     background-image: url(/images/Rectangle\ 9.png);
     background-size: contain;
     background-repeat: no-repeat;
+    padding: 122px 287px;
 }
 .text1{
     text-align: center;
-    padding: 122px 287px;
+    
 }
+.form{
+    padding: 23px 413px 23px 22px;
+    border-radius: 8px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px 0px 0px;
+}
+.last{
+    padding: 128px 0px;
+}
+.aa{
+
+    font-size: 40px;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 0%;
+}
+
