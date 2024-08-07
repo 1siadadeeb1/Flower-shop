@@ -29,7 +29,24 @@
 .bannerchuta{
     font-size: 18px;
     font-family: "Lato", sans-serif;
-    font-weight: 634;
+    font-weight: 350;
+    font-style: normal;
+    padding: 0px 0px 30px 0px;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Lato", sans-serif;
+    font-weight: 800;
     font-style: normal;
 }
-
+.description{
+    text-align: center;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    font-weight: 350;
+    font-style: normal;
+}
+.about{
+    padding: 178px 665px 0px 661px;
+}
