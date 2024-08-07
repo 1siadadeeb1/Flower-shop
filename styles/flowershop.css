@@ -53,3 +53,49 @@
 .pad{
     margin: 0px 238px;
 }
+.flowe1{
+    background-image: url(/images/Rectangle\ 3\ \(1\).png);
+    height: 428;
+    width: 310;
+    background-position: bottom left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 110px 78px 0px 76px;
+}
+.hea{
+    text-align: center;
+    font-size: 24px;
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: underline;
+}
+.flower{
+    height: 605px;
+    width: 464;
+}
+.flowers{
+    display: flex;
+    justify-content: space-around;
+    padding: 48px 0px 0px 0px;
+}
+.flowe2{
+    background-image: url(/images/Rectangle\ 3\ \(2\).png);
+    height: 370;
+    width: 370;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 117px 47px 51px 47px;
+}
+.flowe3{
+    background-image: url(/images/Rectangle\ 3\ \(3\).png);
+    height: 428;
+    width: 310;
+    background-position: bottom left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 67px 75px 0px 75px;
+}
