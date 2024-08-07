@@ -3,8 +3,9 @@
 }
 .banner{
     padding: 50px 240px 0px 240px;
-    display: flex;
-    justify-content: space-between 97px;
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
 }
 .btn{
     border-radius: 8px;
@@ -20,8 +21,15 @@
 
 }
 .banner-initial{
+    font-family: "Lato", sans-serif;
+  font-weight: 708;
+  font-style: normal;
     font-size: 80px;
 }
 .bannerchuta{
     font-size: 18px;
+    font-family: "Lato", sans-serif;
+    font-weight: 634;
+    font-style: normal;
 }
+
