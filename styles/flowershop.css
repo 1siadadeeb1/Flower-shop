@@ -78,6 +78,7 @@
 }
 .flowers{
     display: flex;
+    align-items: center;
     justify-content: space-around;
     padding: 48px 0px 0px 0px;
 }
