@@ -160,6 +160,7 @@
 }
 .onlyimg{
     padding: 48px 0px 0px 0px;
+    justify-content: space-evenly;
 }
 .background{
     background-image: url(../images/Rectangle9.png);
